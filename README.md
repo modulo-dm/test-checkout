@@ -1,3 +1,3 @@
 # test-checkout
 
-v1.0.0-prerelease.2
+v1.0.0
